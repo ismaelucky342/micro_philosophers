@@ -1,7 +1,14 @@
 # Micro Philosophers
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd4500bd-3491-4c22-a5cf-b5adc58069da" width="300" />
+</p>
 
 This project, developed as part of the **Philosophers** project at 42 Madrid and a systems programming activity at U-Tad, is a multithreading and multiprocessing simulation of the famous **Dining Philosophers Problem**. It showcases advanced synchronization techniques using **semaphores**, **threads**, and **processes** to solve concurrency challenges.
 
+Original repositories:
+
+- [42 Philosophers](https://github.com/ismaelucky342/Philosophers/tree/main)
+- [U-Tad threads Practice](https://github.com/ismaelucky342/U-Tad/tree/main/2nd_Course/Q1/Operating_systems/Unit_2/AEC2)
 ---
 
 ## 🎯 **Learning Goals**
@@ -35,7 +42,7 @@ This simulation uses **processes** to simulate each philosopher as an independen
 
 ```bash
 
-git clone https://github.com/your-repo/micro-philosophers.git
+git clone https://github.com/ismaelucky342/micro_philosophers.git
 cd micro-philosophers
 
 ```
@@ -161,6 +168,8 @@ This classic problem in computer science demonstrates the challenges of resource
 
 ## 💡 Extras
 
-This project is inspired by the **Philosophers** project at [42](https://42.fr/) and a **systems programming activity** at [U-TAD](https://u-tad.com/). Special thanks to the instructors and peers for their guidance in mastering the art of concurrent programming.
+This project is inspired by the **Philosophers** project at 42 and a **systems programming activity** at U-Tad. Special thanks to the instructors and peers for their guidance in mastering the art of concurrent programming.
 
-Enjoy the code.
+-Enjoy the code.
+
+![image](https://github.com/user-attachments/assets/224a18c0-6be4-4ece-a70c-bb69b8b260f3)
